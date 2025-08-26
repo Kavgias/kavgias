@@ -18,6 +18,13 @@ Me chamo Leandro Duarte Kavgias, tenho 23 anos e sou natural de niteroí, conclu
             src="https://custom-icon-badges.demolab.com/github/followers/Kavgias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+     <a href="https://www.linkedin.com/in/leandro-kavgias-a68702248/">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no linkedin" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Kavgias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Seguidores&logoColor=white"
+        />
+    </a>
   <p/>
     
 ### 🤖 Linguagens e Tecnologias
