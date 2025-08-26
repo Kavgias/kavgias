@@ -1,5 +1,5 @@
 ##  Leandro Kavgias
-**`desnvolvedor frontand`**
+**`desnvolvedor fullstack`**
 
 Me chamo Leandro Duarte Kavgias, tenho 23 anos e sou natural de niteroí, concluí o ensino médio no Salesiano, estou cursando sistemas de informação na unilasalle.
 ---
