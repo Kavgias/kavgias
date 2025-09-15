@@ -80,8 +80,9 @@ Me chamo Leandro Duarte Kavgias, tenho 23 anos, sou natural de niteroí, conclu�
 
 <br/>
 <br/>
----
+
 ### 📊 Estatísticas
+
 <p>
   <img 
     align="left" 
