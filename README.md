@@ -4,14 +4,14 @@
 Me chamo Leandro Duarte Kavgias, tenho 23 anos, sou natural de niteroí, concluí o ensino médio no Salesiano, estou cursando sistemas de informação na unilasalle.
 ---
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/kavgias?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Kavgias?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/kavgias?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
