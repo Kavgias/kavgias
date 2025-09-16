@@ -72,8 +72,8 @@ Me chamo Leandro Duarte Kavgias, tenho 23 anos, sou natural de nitero√≠, conclu√
     
   <img 
     align="left" 
-    alt="java" 
-    title="java"
+    alt="c#" 
+    title="c#"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
